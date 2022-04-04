@@ -50,6 +50,8 @@
 
 - https://gpac.github.io/mp4box.js/
 
+- https://www.npmjs.com/package/mp4box
+
 # Media Standarts
 
 - https://mp4ra.org/#/
