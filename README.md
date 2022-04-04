@@ -1,10 +1,12 @@
-## Media Packager Tools
+# Media Packager Tools
 
-####* FFMpeg
+### FFMpeg
 
 - https://ffmpeg.org/
 
 - https://github.com/FFmpeg/FFmpeg
+
+### GPAC & MP4Box
 
 - https://gpac.wp.imt.fr/
 
@@ -16,13 +18,17 @@
 
 - https://github.com/gpac/gpac/wiki/Filters
 
+### Bento4
+
 - https://www.bento4.com/
 
 - https://github.com/axiomatic-systems/Bento4
 
+### Shaka Packager
+
 - https://github.com/shaka-project/shaka-packager
 
-### Media Parser Tools
+# Media Parser Tools
 
 - https://github.com/edgeware/mp4tree
 
