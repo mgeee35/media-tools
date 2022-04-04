@@ -6,6 +6,8 @@
 
 - https://github.com/FFmpeg/FFmpeg
 
+- https://hhsprings.bitbucket.io/docs/programming/examples/ffmpeg/index.html
+
 ### GPAC & MP4Box
 
 - https://gpac.wp.imt.fr/
