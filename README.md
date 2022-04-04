@@ -40,7 +40,7 @@
 
 ### atomicparsley
 
-- https://github.com/mgeee35/atomicparsley
+- https://github.com/wez/atomicparsley
 
 ### mp4box.js
 
