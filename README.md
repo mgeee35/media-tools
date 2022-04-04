@@ -42,7 +42,7 @@
 
 - https://github.com/wez/atomicparsley
 
-### mp4box.js
+### MP4Box.js
 
 - https://gpac.github.io/mp4box.js/test/index.html
 
