@@ -6,6 +6,9 @@
 
 - http://mp4parser.com/
 
+- https://github.com/gpac/mp4box.js
+
 - https://gpac.github.io/mp4box.js/
+
 - https://gpac.github.io/mp4box.js/test/index.html
 
