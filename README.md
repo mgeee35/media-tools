@@ -12,11 +12,7 @@
 
 - https://github.com/gpac/gpac
 
-- https://github.com/gpac/gpac/wiki/MP4Box
-
-- https://github.com/gpac/gpac/wiki/Howtos
-
-- https://github.com/gpac/gpac/wiki/Filters
+- https://github.com/gpac/gpac/wiki
 
 ### Bento4
 
