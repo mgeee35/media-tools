@@ -1,4 +1,4 @@
-### Video File Parser Tools
+### Media File Parser Tools
 
 - https://github.com/edgeware/mp4tree
 
