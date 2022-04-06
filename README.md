@@ -42,6 +42,8 @@
 
 - https://askubuntu.com/questions/420981/how-do-i-save-terminal-output-to-a-file/731237#731237
 
+- https://unix.stackexchange.com/questions/200637/save-all-the-terminal-output-to-a-file/200642#200642
+
 ### atomicparsley
 
 - https://github.com/wez/atomicparsley
