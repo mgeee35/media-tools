@@ -40,6 +40,8 @@
 
 - https://github.com/edgeware/mp4tree
 
+- https://askubuntu.com/questions/420981/how-do-i-save-terminal-output-to-a-file/731237#731237
+
 ### atomicparsley
 
 - https://github.com/wez/atomicparsley
