@@ -12,6 +12,12 @@
 
 - https://trac.ffmpeg.org/wiki/Map
 
+- https://ffmpeg.org/pipermail/ffmpeg-user/2017-November/037937.html
+
+- https://ffmpeg.org/ffmpeg-all.html#Format-Options
+
+- https://ffmpeg.org/ffmpeg-all.html#dash-2
+
 - https://hhsprings.bitbucket.io/docs/programming/examples/ffmpeg/index.html
 
 - https://askubuntu.com/questions/640925/installing-latest-ffmpeg-with-latest-external-libraries-and-keeping-them-up-to-d
