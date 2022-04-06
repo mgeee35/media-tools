@@ -14,6 +14,8 @@
 
 - https://hhsprings.bitbucket.io/docs/programming/examples/ffmpeg/index.html
 
+- https://askubuntu.com/questions/640925/installing-latest-ffmpeg-with-latest-external-libraries-and-keeping-them-up-to-d
+
 ### GPAC & MP4Box
 
 - https://gpac.wp.imt.fr/
