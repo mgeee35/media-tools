@@ -34,6 +34,22 @@
 
 - https://github.com/gpac/gpac/wiki
 
+- https://www.mankier.com/1/mp4box
+
+- https://www.mankier.com/1/gpac
+
+- https://www.mankier.com/1/gpac-filters
+
+- https://www.mankier.com/1/mp4client
+
+- https://man.archlinux.org/man/community/gpac/mp4box.1
+
+- https://man.archlinux.org/man/community/gpac/gpac.1
+
+- https://man.archlinux.org/man/community/gpac/gpac-filters.1
+
+- https://man.archlinux.org/man/community/gpac/mp4client.1
+
 ### Bento4
 
 - https://www.bento4.com/
