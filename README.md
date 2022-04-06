@@ -22,6 +22,8 @@
 
 - https://askubuntu.com/questions/640925/installing-latest-ffmpeg-with-latest-external-libraries-and-keeping-them-up-to-d
 
+- https://superuser.com/questions/270511/how-to-specify-search-folder-for-external-library-while-building-ffmpeg
+
 - https://github.com/tanersener/mobile-ffmpeg/wiki/External-Libraries
 
 ### GPAC & MP4Box
