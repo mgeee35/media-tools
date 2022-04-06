@@ -8,6 +8,8 @@
 
 - https://trac.ffmpeg.org/
 
+- https://trac.ffmpeg.org/wiki/CompilationGuide/Ubuntu
+
 - https://trac.ffmpeg.org/wiki/Map
 
 - https://hhsprings.bitbucket.io/docs/programming/examples/ffmpeg/index.html
