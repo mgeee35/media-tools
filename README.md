@@ -34,6 +34,8 @@
 
 - https://github.com/gpac/gpac/wiki
 
+- https://doxygen.gpac.io/
+
 - https://www.mankier.com/1/mp4box
 
 - https://www.mankier.com/1/gpac
