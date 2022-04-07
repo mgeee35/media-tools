@@ -34,10 +34,6 @@
 
 - https://github.com/gpac/gpac/wiki
 
-- https://github.com/gpac/gpac/wiki/MP4Box
-
-- https://github.com/gpac/gpac/wiki/DASH-intro
-
 - https://doxygen.gpac.io/
 
 - https://www.mankier.com/1/mp4box
