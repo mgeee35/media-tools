@@ -12,6 +12,8 @@
 
 - https://trac.ffmpeg.org/wiki/Map
 
+- https://trac.ffmpeg.org/wiki/Encode/H.264
+
 - https://ffmpeg.org/pipermail/ffmpeg-user/2017-November/037937.html
 
 - https://ffmpeg.org/ffmpeg-all.html#Format-Options
