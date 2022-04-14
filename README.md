@@ -118,6 +118,20 @@
 
 - https://github.com/aiortc/aioquic
 
+# HTTP/2
 
+- https://http2.github.io/
 
+- https://github.com/http2
 
+- https://httpwg.org/specs/
+
+- https://github.com/httpwg/http2-spec/wiki/Implementations
+
+- https://hyper.readthedocs.io/en/latest/
+
+- https://github.com/python-hyper
+
+- https://nghttp2.org/
+
+- https://github.com/nghttp2/nghttp2
