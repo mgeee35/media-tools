@@ -68,6 +68,8 @@
 
 - https://man.archlinux.org/man/community/gpac/mp4client.1
 
+- https://stackoverflow.com/questions/36850090/split-fragmented-mp4-into-multiple-mp4-files/36860634#36860634
+
 ### Bento4
 
 - https://www.bento4.com/
@@ -158,10 +160,32 @@
 
 - https://www.w3.org/Protocols/rfc2616/rfc2616-sec3.html#sec3.6.1
 
+- https://gist.github.com/CMCDragonkai/6bfade6431e9ffb7fe88
+
+- https://bugs.python.org/file36493/chunkedhttp.py
+
+- https://docs.silabs.com/resources/gecko-os/examples/http_get_post/get_post_server.py
+
+- https://gist.github.com/josiahcarlson/3250376
+
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Transfer-Encoding
+
+- https://stackoverflow.com/questions/60895110/how-to-handle-chunked-encoding-in-python-basehttprequesthandler
+
 - http://www.sigmm.org/archive/NOSSDAV/nossdav14/nossdav14.iis.sinica.edu.tw/slides/2-3_Low-Latency-LiveV-Streaming-over-HTTP2.pdf
 
 - https://github.com/tomlyko/ (CMAF)
 
+- https://github.com/NUStreaming/LoL-plus
+
 - https://thebroadcastknowledge.com/2020/11/06/video-low-latency-dash-streaming-using-open-source-tools/
 
+- https://www.techtalk7.com/python-http-server-that-supports-chunked-encoding/
+
 - https://github.com/necccc/iso-bmff-parser-stream
+
+- https://stackoverflow.com/questions/17661962/how-to-post-chunked-encoded-data-in-python
+
+- https://github.com/Arjunumesh11/offline_streamer
+
+- https://stackoverflow.com/questions/13682218/how-to-play-m4s-file-given-in-mpd-of-mpeg-dash-on-player/29175518#29175518
