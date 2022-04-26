@@ -162,17 +162,29 @@
 
 - https://gist.github.com/CMCDragonkai/6bfade6431e9ffb7fe88
 
+- https://gist.github.com/v-kolesnikov/8e5e4bc72726b8c190ca487ed213365e
+
 - https://bugs.python.org/file36493/chunkedhttp.py
 
 - https://docs.silabs.com/resources/gecko-os/examples/http_get_post/get_post_server.py
 
 - https://gist.github.com/josiahcarlson/3250376
 
+- https://gist.github.com/demianbrecht/3fd60994eceeb3da8f13
+
+- https://bugs.python.org/issue12319
+
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Transfer-Encoding
 
 - https://stackoverflow.com/questions/60895110/how-to-handle-chunked-encoding-in-python-basehttprequesthandler
 
+- https://stackoverflow.com/questions/732222/python-http-server-that-supports-chunked-encoding
+
 - http://www.sigmm.org/archive/NOSSDAV/nossdav14/nossdav14.iis.sinica.edu.tw/slides/2-3_Low-Latency-LiveV-Streaming-over-HTTP2.pdf
+
+- https://github.com/caddyserver/caddy/issues/3606
+
+- https://github.com/Dash-Industry-Forum/dash.js/wiki/Low-Latency-streaming
 
 - https://github.com/tomlyko/ (CMAF)
 
@@ -189,3 +201,11 @@
 - https://github.com/Arjunumesh11/offline_streamer
 
 - https://stackoverflow.com/questions/13682218/how-to-play-m4s-file-given-in-mpd-of-mpeg-dash-on-player/29175518#29175518
+
+- https://stackoverflow.com/questions/842197/web-server-when-should-i-use-chunked-transfer-encoding
+
+- https://github.com/SelimEmre
+
+- https://github.com/ant-media/Ant-Media-Server/wiki
+
+- 
