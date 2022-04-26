@@ -38,6 +38,20 @@
 
 - https://doxygen.gpac.io/
 
+- https://www.gpac-licensing.com/2014/08/21/ibc-2014-dash-avc264-support-in-gpac/#mp4box
+
+- https://github.com/gpac/gpac/wiki/httpout
+
+- https://github.com/gpac/gpac/wiki/DASH-Sequences
+
+- https://github.com/gpac/gpac/wiki/Fragmentation%2C-segmentation%2C-splitting-and-interleaving
+
+- https://github.com/gpac/gpac/wiki/dash_low_latency
+
+- https://github.com/gpac/node-gpac-dash
+
+- https://download.tsi.telecom-paristech.fr/gpac/DASH_CONFORMANCE/TelecomParisTech/mp4-main-multi/mp4-main-multi-mpd-V-BS.mpd
+
 - https://www.mankier.com/1/mp4box
 
 - https://www.mankier.com/1/gpac
@@ -140,8 +154,14 @@
 
 - https://github.com/nghttp2/nghttp2
 
-# Low-Latency
+# HTTP/1.1
+
+- https://www.w3.org/Protocols/rfc2616/rfc2616-sec3.html#sec3.6.1
 
 - http://www.sigmm.org/archive/NOSSDAV/nossdav14/nossdav14.iis.sinica.edu.tw/slides/2-3_Low-Latency-LiveV-Streaming-over-HTTP2.pdf
 
-- 
+- https://github.com/tomlyko/
+
+- https://thebroadcastknowledge.com/2020/11/06/video-low-latency-dash-streaming-using-open-source-tools/
+
+- https://github.com/necccc/iso-bmff-parser-stream
