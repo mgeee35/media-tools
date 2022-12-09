@@ -215,3 +215,57 @@
 - https://github.com/python/cpython/blob/3.8/Lib/http/server.py
 
 
+
+# Streaming Clients
+
+### Dash.js
+
+- https://reference.dashif.org/dash.js/
+
+- https://github.com/Dash-Industry-Forum/dash.js
+
+- https://github.com/Dash-Industry-Forum/dash.js/wiki
+
+- https://github.com/Dash-Industry-Forum/dash.js/wiki/Low-Latency-streaming
+
+### Hls.js
+
+- https://hls-js.netlify.app/demo/
+
+- https://github.com/video-dev/hls.js/
+
+- https://nochev.github.io/hls.js/
+
+- https://nochev.github.io/hls.js/docs/html/
+
+### Clappr
+
+- https://clappr.io/
+
+- https://github.com/clappr/clappr
+
+- https://github.com/clappr/dash-shaka-playback
+
+- https://github.com/clappr/hlsjs-playback
+
+### Video.js
+
+- https://videojs.com/
+
+- https://github.com/videojs/video.js
+
+### jPlayer
+
+- https://jplayer.org/
+
+- https://github.com/jplayer/jPlayer
+
+### MediaElement.js
+
+- https://www.mediaelementjs.com/
+
+- https://github.com/mediaelement/mediaelement
+
+- https://github.com/mediaelement/mediaelement-plugins
+
+
