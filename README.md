@@ -294,4 +294,16 @@
 
 - https://github.com/membranesoftware/membrane-media-library
 
+### Fluid Player
+
+- https://www.fluidplayer.com/
+
+- https://github.com/fluid-player/fluid-player
+
+### OpenPlayerJS
+
+- https://www.openplayerjs.com/
+
+- https://github.com/openplayerjs/openplayerjs
+
 
