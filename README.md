@@ -266,6 +266,8 @@
 
 - https://github.com/shaka-project/shaka-streamer
 
+- https://shaka-player-demo.appspot.com/support.html
+
 ### Clappr
 
 - https://clappr.io/
