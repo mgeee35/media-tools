@@ -28,6 +28,14 @@
 
 - https://github.com/tanersener/mobile-ffmpeg/wiki/External-Libraries
 
+- https://gist.github.com/dvlden/b9d923cb31775f92fa54eb8c39ccd5a9
+
+- https://johnvansickle.com/ffmpeg/
+
+- https://www.oodlestechnologies.com/blogs/how-to-transcode-using-ffmpeg/
+
+- https://opensource.com/article/17/6/ffmpeg-convert-media-file-formats
+
 ### GPAC & MP4Box
 
 - https://gpac.wp.imt.fr/
