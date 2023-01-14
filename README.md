@@ -258,6 +258,14 @@
 
 - https://nochev.github.io/hls.js/docs/html/
 
+### Shaka Player
+
+- https://github.com/shaka-project/shaka-player
+
+- https://github.com/shaka-project/shaka-packager
+
+- https://github.com/shaka-project/shaka-streamer
+
 ### Clappr
 
 - https://clappr.io/
